@@ -1,4 +1,4 @@
-# Index Page
 ---
 layout: home
+# Index Page
 ---
