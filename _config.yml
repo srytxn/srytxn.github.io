@@ -31,6 +31,9 @@ github:
 twitter:
   username: srytxn # change to your twitter username
 
+linkedin:
+  username: ryan-stanley-cysec # change to your linkedin username
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -40,6 +43,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/srytxn # change to your twitter homepage
     - https://github.com/srytxn # change to your github homepage
+    - https://www.linkedin.com/in/ryan-stanley-cysec/ # change to your linkedin homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
